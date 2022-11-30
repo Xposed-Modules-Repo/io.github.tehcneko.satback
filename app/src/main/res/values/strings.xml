@@ -4,8 +4,8 @@
     <string-array name="scope">
         <item>cmb.pb</item>
         <item>cn.gov.pbc.dcep</item>
-        <item>com.MobileTicket</item>
         <item>com.autonavi.minimap</item>
+        <item>com.MobileTicket</item>
         <item>com.baidu.tieba</item>
         <item>com.cainiao.wireless</item>
         <item>com.chinamworld.bocmbci</item>
@@ -13,25 +13,19 @@
         <item>com.eg.android.AlipayGphone</item>
         <item>com.jd.jdlite</item>
         <item>com.jd.jrapp</item>
-        <item>com.jd.pingou</item>
-        <item>com.jingdong.app.mall</item>
-        <item>com.mxbc.mxsa</item>
         <item>com.netease.cloudmusic</item>
+        <item>com.ruanmei.ithome</item>
         <item>com.sankuai.meituan</item>
         <item>com.sinovatech.unicom.ui</item>
         <item>com.smzdm.client.android</item>
-        <item>com.taobao.idlefish</item>
         <item>com.taobao.taobao</item>
-        <item>com.tencent.androidqqmail</item>
-        <item>com.unionpay</item>
         <item>com.xiaomi.hm.health</item>
-        <item>com.xiaomi.mico</item>
         <item>com.xiaomi.shop</item>
         <item>com.xiaomi.vipaccount</item>
         <item>com.xiaomi.youpin</item>
-        <item>com.xunlei.downloadprovider</item>
         <item>com.xunmeng.pinduoduo</item>
-        <item>com.yek.android.kfc.activitys</item>
         <item>com.zhihu.android</item>
+        <item>me.ele</item>
+        <item>tv.danmaku.bili</item>
     </string-array>
 </resources>
