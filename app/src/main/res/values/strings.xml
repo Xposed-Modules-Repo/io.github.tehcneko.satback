@@ -28,5 +28,6 @@
         <item>com.zhihu.android</item>
         <item>me.ele</item>
         <item>tv.danmaku.bili</item>
+        <item>com.alicloud.databox</item>
     </string-array>
 </resources>
